@@ -1,0 +1,62 @@
+﻿Occupation,Monthly Income,Credit Score,Number of Children
+Teacher,40000,750,2
+Engineer,60000,800,1
+Nurse,25000,650,0
+Doctor,80000,900,3
+Businessman,100000,700,2
+Engineer,50000,750,1
+Teacher,35000,700,1
+Nurse,20000,600,2
+Businessman,120000,850,3
+Doctor,90000,800,4
+Engineer,6000,700,5
+Salesperson,3000,600,6
+Teacher,4000,750,9
+Entrepreneur,8000,800,1
+Lawyer,9000,820,2
+Doctor,12000,900,1
+Accountant,5000,720,12
+Software Dev,7000,780,1
+Nurse,3500,650,3
+Electrician,2500,550,4
+Architect,5500,740,6
+Marketing Exec,4500,690,1
+Chef,3000,620,2
+Police Officer,4000,680,3
+Real Estate Ag,6000,760,4
+Pilot,10000,820,8
+Graphic Design,3500,670,0
+Writer,2000,500,0
+Musician,2500,550,0
+Nurse,4500 ,720,0
+Software Developer,7800 ,800,0
+Chef,3200 ,650,0
+Teacher,40000,750,2
+Engineer,60000,800,1
+Nurse,25000,650,0
+Doctor,80000,900,3
+Businessman,100000,700,2
+Engineer,50000,750,1
+Teacher,35000,700,1
+Nurse,20000,600,2
+Businessman,120000,850,3
+Doctor,90000,800,4
+Engineer,6000,700,5
+Salesperson,3000,600,1
+Teacher,4000,750,2
+Entrepreneur,8000,800,0
+Lawyer,9000,820,5
+Doctor,12000,900,3
+Accountant,5000,720,6
+Software Dev,7000,780,18
+Nurse,3500,650,12
+Electrician,2500,550,11
+Architect,5500,740,1
+Marketing Exec,4500,690,1
+Chef,3000,620,2
+Police Officer,4000,680,3
+Real Estate Ag,6000,760,2
+Pilot,10000,820,3
+Graphic Design,3500,670,9
+Writer,2000,500,1
+Musician,2500,550,2
